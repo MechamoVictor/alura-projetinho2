@@ -1,2 +1,2 @@
 # alura-projetinho2
-Olá a todos, vamos começar a versionar. olaiasecaeec
+Olá a todos, vamos começar a versionar.
